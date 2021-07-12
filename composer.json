@@ -1,0 +1,21 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandr Leda",
+            "email": "leda_sasha@mail.ru"
+        }
+    ],
+    "bin": [
+        "bin/brain-games"
+      ],
+    "require": {}
+}
